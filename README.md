@@ -9,7 +9,7 @@
 > спортивно-развлекательного контента
 
 ## Предосмотр софта
-![video.mp4](https://drive.google.com/file/d/176vNDkRvxNaQaDtZ-7wQQ-6JvxJUlMEa/view)
+[video.mp4](https://drive.google.com/file/d/176vNDkRvxNaQaDtZ-7wQQ-6JvxJUlMEa/view)
 
 ## Установка
 Переходите в Релизы и там всё будет
